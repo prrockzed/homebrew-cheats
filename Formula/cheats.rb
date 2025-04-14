@@ -2,7 +2,7 @@ class Cheats < Formula
   desc "Simple terminal-based cheat sheet tool"
   homepage "https://github.com/prrockzed/cheats"
   url "https://github.com/prrockzed/cheats/archive/refs/heads/main.tar.gz"
-  sha256 "bacbed08475fa2aef906d8ab101ada0979649b0999916490780d2ddef7136d6c"
+  sha256 "ca427946d6fcb6b1dfd8f4b74f512edf8b8a09d12a65564635f3ff08b5ccc994"
   version "0.1.0"
 
   def install
